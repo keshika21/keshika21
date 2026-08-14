@@ -1,10 +1,3 @@
-````markdown
-<!--
-  GitHub Profile README
-  Username: keshika21
-  Replace ./assets/girl-coding.png with your own developer illustration.
--->
-
 <div align="center">
 
 <!-- 🌸 HERO -->
