@@ -9,7 +9,7 @@
 
 <!-- 🌸 HERO -->
 
-<img src="./assets/girl-coding.png" width="280" alt="Illustration of a girl coding on a laptop">
+<img src="keshika.png" width="280" alt="Illustration of a girl coding on a laptop">
 
 <br>
 
